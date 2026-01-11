@@ -1,7 +1,8 @@
 package seccion2IntroJava;
 
-public class holaMundo {
+public class holaMundoReto {
 	public static void main(String[] args) {
 		System.out.println("hola mundo");
+		
 	}
 }
